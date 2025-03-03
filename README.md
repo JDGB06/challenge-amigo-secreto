@@ -15,5 +15,7 @@
 
 <h2>Tecnologias Utilizadas:</h2>
 -HMTL
+
 -JavaScript
+
 -CSS
