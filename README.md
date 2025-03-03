@@ -14,8 +14,7 @@
 📹 [Ver video](https://github.com/JDGB06/challenge-amigo-secreto/raw/main/vidvideoeo.mp4)
 
 <h2>Tecnologias Utilizadas:</h2>
--HMTL
+-HTML
 
 -JavaScript
-
 -CSS
