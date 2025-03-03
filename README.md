@@ -9,6 +9,6 @@
 ✅ **Sortear amigo secreto**: Selecciona aleatoriamente un amigo de la lista.  
 ✅ **Limpiar la lista después del sorteo**: Borra la lista una vez que se ha realizado el sorteo.  
 
-Demonstración
+Demostración
 📹 [Ver video](https://github.com/JDGB06/challenge-amigo-secreto/raw/main/vidvideoeo.mp4)
 
