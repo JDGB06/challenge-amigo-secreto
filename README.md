@@ -15,6 +15,5 @@
 
 <h2>Tecnologias Utilizadas:</h2>
 -HTML
-
 -JavaScript
 -CSS
