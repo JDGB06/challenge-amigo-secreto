@@ -2,7 +2,7 @@
 
 -Estado del proyecto:✅Completado
 
-<h1>  🚀 Funcionalidades   </h1>
+<h2>  🚀 Funcionalidades   </h2>
 
 ✅ **Agregar amigos**: Permite ingresar nombres de amigos a la lista.  
 ✅ **Mostrar lista de amigos**: Muestra los nombres añadidos en pantalla.  
