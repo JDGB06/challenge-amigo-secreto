@@ -1,13 +1,14 @@
-<h1> Challenge Amigo Secreto    </h1>
+<h1> 🎉Challenge Amigo Secreto    </h1>
 
--Estado del proyecto: Terminado
+-Estado del proyecto:✅Completado
 
-## 🚀 Funcionalidades
+ 🚀 Funcionalidades
 
 ✅ **Agregar amigos**: Permite ingresar nombres de amigos a la lista.  
 ✅ **Mostrar lista de amigos**: Muestra los nombres añadidos en pantalla.  
 ✅ **Sortear amigo secreto**: Selecciona aleatoriamente un amigo de la lista.  
 ✅ **Limpiar la lista después del sorteo**: Borra la lista una vez que se ha realizado el sorteo.  
 
+Demonstración
 📹 [Ver video](https://github.com/JDGB06/challenge-amigo-secreto/raw/main/vidvideoeo.mp4)
 
